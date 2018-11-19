@@ -8,10 +8,11 @@ See Google Group:
 * [FreeAndFair/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/FreeAndFair/ColoradoRLA) - as used in Colorado 2017, and Orange County 2018, but see updated version at democracyworks 
 * [democracyworks/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/democracyworks/ColoradoRLA) - as used in Colorado 2018
 * [nealmcb/ocrla-2018p: Orange County California, ballot-polling risk-limiting audit of 2018 primary](https://github.com/nealmcb/ocrla-2018p)
+* [nealmcb/corla-2018-11: Analysis of Colorado risk-limiting audit for 2018-11 (general election)](https://github.com/nealmcb/corla-2018-11)
 
 * [agupta231/RIWAVE: Rhode Island RLA project](https://github.com/agupta231/RIWAVE)
 * [ron-rivest/2018-bptool](https://github.com/ron-rivest/2018-bptool)
-* Stark team's code for WI pilot audit
+* [Risk-Limiting Audits by Stratified Union-Intersection Tests of Elections (SUITE)](https://github.com/pbstark/CORLA18) - Ottoboni / Stark code for WI pilot audit
 * [NIST SP 1500-100 election results reporting standard](https://www.nist.gov/itl/voting/interoperability/election-results-reporting-cdf)
 
 * [nealmcb/consistent_sampler: Routine for providing 'consistent sampling' (intended for use in election audits).](https://github.com/nealmcb/consistent_sampler)
