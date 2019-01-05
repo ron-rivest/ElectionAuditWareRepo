@@ -17,6 +17,7 @@ See Google Group:
 
 * [nealmcb/consistent_sampler: Routine for providing 'consistent sampling' (intended for use in election audits).](https://github.com/nealmcb/consistent_sampler)
 * [nealmcb/audit_cvrs: audit_cvrs helps auditors manage a ballot-level risk-limiting post-election audit](https://github.com/nealmcb/audit_cvrs)
+* [FreeAndFair/OpenRLA: Free & Fair's open source RLA support software.](https://github.com/FreeAndFair/OpenRLA) - a 2016 Free & Fair prototype for ballot polling audits, before the ColoradoRLA contract.
 * [nealmcb/electionaudits: Post-election risk-limiting audit implementation, for batch comparison audits of ballot tabulation outcomes](https://github.com/nealmcb/electionaudits)
 * [nealmcb/electionaudits-data: Data related to election auditing, including post-election risk-limiting audits of ballot tabulation outcomes](https://github.com/nealmcb/electionaudits-data)
 * [nealmcb/rivest-sampler-tests: Test cases for Ronald L. Rivest's pseudo-random sampling algorithm](https://github.com/nealmcb/rivest-sampler-tests)
