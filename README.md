@@ -10,9 +10,10 @@ See Google Group:
 * [nealmcb/ocrla-2018p: Orange County California, ballot-polling risk-limiting audit of 2018 primary](https://github.com/nealmcb/ocrla-2018p) - working around limitations of ColoradoRLA to do ballot-polling audits.
 * [nealmcb/corla-2018-11: Analysis of Colorado risk-limiting audit for 2018-11 (general election)](https://github.com/nealmcb/corla-2018-11)
 
+* [ElectionAuditWare/audit-conductor: Conduct a risk-limiting election tabulation audit, integrating various related tools](https://github.com/ElectionAuditWare/audit-conductor) - for Rhode Island pilot in 2019
 * [agupta231/RIWAVE: Rhode Island RLA project](https://github.com/agupta231/RIWAVE)
-* [ron-rivest/2018-bptool](https://github.com/ron-rivest/2018-bptool)
-* [ron-rivest/2018-bctool](https://github.com/ron-rivest/2018-bctool)
+* [ron-rivest/2018-bptool](https://github.com/ron-rivest/2018-bptool) ballot polling calculations
+* [ron-rivest/2018-bctool](https://github.com/ron-rivest/2018-bctool) ballot-level comparison calculations
 * [ron-rivest/consistent_sampler: Routine for providing 'consistent sampling'](https://github.com/ron-rivest/consistent_sampler)
 * [CORLA18: Risk-Limiting Audits by Stratified Union-Intersection Tests of Elections (SUITE)](https://github.com/pbstark/CORLA18) - Ottoboni / Stark code for WI pilot audit
 * [NIST SP 1500-100 election results reporting standard](https://www.nist.gov/itl/voting/interoperability/election-results-reporting-cdf)
