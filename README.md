@@ -41,6 +41,7 @@ See Google Group:
 * [ron-rivest/2016-aus-senate-audit](https://github.com/ron-rivest/2016-aus-senate-audit) a Bayesian approach to support work on auditing the 2016 Australian Senate elections, which use the [Single transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) method, one of many forms of ranked choice voting.
 
 * [CORLA18: Risk-Limiting Audits by Stratified Union-Intersection Tests of Elections (SUITE)](https://github.com/pbstark/CORLA18) - Ottoboni / Stark code for combining ballot-polling and ballot-level comparison data, for WI pilot audit
+* [pr_voting_methods: Proportional Representation Voting Methods, Data, and Auditing](https://github.com/nealmcb/pr_voting_methods)
 
 
 ### Election data standards, repositories and analyses
