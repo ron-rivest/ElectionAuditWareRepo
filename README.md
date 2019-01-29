@@ -55,3 +55,5 @@ See Google Group:
 * [openelections/specs: Specs for OpenElections Data](https://github.com/openelections/specs)
 * [openelections/clarify: Discover and parse results for jurisdictions that use Clarity-based election systems.](https://github.com/openelections/clarify)
   * and perhaps [nealmcb/clarify at audit](https://github.com/nealmcb/clarify/tree/audit)
+
+* [SOBA: Secrecy-preserving Observable Ballot-level Audit - arxiv 1105.5803](https://arxiv.org/abs/1105.5803) - would presumably need a modified CVR standard
