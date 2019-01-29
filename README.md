@@ -52,7 +52,7 @@ See Google Group:
 * [nealmcb/corla-2018-11: Analysis of Colorado risk-limiting audit for 2018-11 (general election)](https://github.com/nealmcb/corla-2018-11)
 
 * [nealmcb/electionaudits-data: Data related to election auditing, including post-election risk-limiting audits of ballot tabulation outcomes](https://github.com/nealmcb/electionaudits-data)
-* [developmentseed/open-elections: All data. For all elections. On Github.](https://github.com/developmentseed/open-elections)
+* [OpenElections: Certified election results. For everyone.](http://www.openelections.net/)
 * [openelections/specs: Specs for OpenElections Data](https://github.com/openelections/specs)
 * [openelections/clarify: Discover and parse results for jurisdictions that use Clarity-based election systems.](https://github.com/openelections/clarify)
   * and perhaps [nealmcb/clarify at audit](https://github.com/nealmcb/clarify/tree/audit)
