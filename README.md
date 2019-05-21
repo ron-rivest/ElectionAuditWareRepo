@@ -19,7 +19,7 @@ See Google Group:
 * [agupta231/RIWAVE: Rhode Island RLA project](https://github.com/agupta231/RIWAVE)
 * [nealmcb/audit_cvrs: audit_cvrs helps auditors manage a ballot-level risk-limiting post-election audit](https://github.com/nealmcb/audit_cvrs) - Django-based 2013/2014 code for observing early pilots in Colorado  
 * [FreeAndFair/OpenRLA: Free & Fair's open source RLA support software.](https://github.com/FreeAndFair/OpenRLA) - a 2016 Free & Fair prototype for ballot polling audits, before the ColoradoRLA contract.
-* [nealmcb/electionaudits: Post-election risk-limiting audit implementation, for batch comparison audits of ballot tabulation outcomes](https://github.com/nealmcb/electionaudits) - used in Boulder County, Colorado, 2008 and 2010
+* [nealmcb/electionaudits: Post-election risk-limiting audit implementation, for batch comparison risk-limiting audits of ballot tabulation outcomes](https://github.com/nealmcb/electionaudits) - used in Boulder County, Colorado, 2008 and 2010
 
 ### Choosing random samples of precincts or ballots to audit
 
