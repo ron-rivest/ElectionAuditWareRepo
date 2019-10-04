@@ -31,6 +31,7 @@ See Google Group:
 * [nealmcb/rivest-sampler-tests: Test cases for Ronald L. Rivest's pseudo-random sampling algorithm](https://github.com/nealmcb/rivest-sampler-tests) - Rivest's classic "sampler" Python implementation of the algorithm underlying many risk-limiting audits
   * and [nealmcb/rivest-sampler-tests at python-test](https://github.com/nealmcb/rivest-sampler-tests/tree/python-test)
 
+* [pbstark/BernoulliBallotPolling: Code for Bernoulli Ballot Polling paper](https://github.com/pbstark/BernoulliBallotPolling): geometric_skipping, SPRT, and state data for 2016 Presidential contest
 * [Dice Binning Calculator](https://www.josephhall.org/dicebins.php) - Joeseph Lorenzo Hall's web app for picking precincts to audit directly via dice rolls
 
 
