@@ -8,9 +8,9 @@ See Google Group:
 
 ### General purpose auditing software
 
-* [Arlo](https://github.com/votingworks/arlo): open-source software for Risk-Limiting Audits in the US, via [VotingWorks](https://voting.works) based on ColoradoRLA aka RLATool or CORLA. 
-  * [FreeAndFair/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/FreeAndFair/ColoradoRLA) - as used in Colorado 2017 and 2018 Primaray, and Orange County 2018, but see updated version at democracyworks 
-  * [democracyworks/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/democracyworks/ColoradoRLA) - as used in Colorado 2018 General election, to do multi-county audits and improve many other aspects.
+* [Arlo](https://github.com/votingworks/arlo): open-source software for Risk-Limiting Audits in the US, via [VotingWorks](https://voting.works). Should eventually handle most auditing methods and best practices.
+* [FreeAndFair/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/FreeAndFair/ColoradoRLA) - as used in Colorado 2017 and 2018 Primaray, and Orange County 2018, but see updated version at democracyworks:
+  * [democracyworks/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/democracyworks/ColoradoRLA) - as used in Colorado 2018, 2019 General election, to do multi-county audits and improve many other aspects.
 * [Tools for Comparison Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/auditTools.htm) - Philip Stark's online web app
 * [Tools for Ballot-Polling Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/ballotPollTools.htm) - Philip Stark's online web app
 
