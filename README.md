@@ -8,7 +8,7 @@ See Google Group:
 
 ### General purpose auditing software
 
-* [Arlo](https://voting.works/rla/): open-source software for Risk-Limiting Audits in the US, via [VotingWorks](https://voting.works) based on ColoradoRLA aka RLATool or CORLA, coming soon to [github](https://github.com/votingworks). 
+* [Arlo](https://github.com/votingworks/arlo): open-source software for Risk-Limiting Audits in the US, via [VotingWorks](https://voting.works) based on ColoradoRLA aka RLATool or CORLA. 
   * [FreeAndFair/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/FreeAndFair/ColoradoRLA) - as used in Colorado 2017 and 2018 Primaray, and Orange County 2018, but see updated version at democracyworks 
   * [democracyworks/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/democracyworks/ColoradoRLA) - as used in Colorado 2018 General election, to do multi-county audits and improve many other aspects.
 * [Tools for Comparison Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/auditTools.htm) - Philip Stark's online web app
@@ -36,6 +36,8 @@ See Google Group:
 
 
 ### Lower-level Audit calculations
+* [SHANGRLA: Sets of Half-Average Nulls Generate Risk-Limiting Audits](https://github.com/pbstark/SHANGRLA) - a very general method of auditing a variety of election types, by expressing an apparent election outcome as a series of assertions. Works for plurality, IRV, Borda etc.
+* [audit-irv-cp for generating and running ballot-level comparison audits for IRV elections](https://github.com/michelleblom/audit-irv-cp) - Used in conjunction with SHANGRLA      
 * [rlacalc: Online Calculator for Risk-Limiting Audit Sample Sizes](http://bcn.boulder.co.us/~neal/electionaudits/rlacalc.html) - provides ballot-level comparison, ballot-polling and other calculations
   * source code at [audit_cvrs/rlacalc.py](https://github.com/nealmcb/audit_cvrs/blob/ballot-polling/audit_cvrs/rlacalc.py) - with general-purpose Python library
 * [ron-rivest/2018-bptool](https://github.com/ron-rivest/2018-bptool) Bayesian ballot polling calculations
