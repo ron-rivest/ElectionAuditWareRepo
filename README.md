@@ -64,3 +64,5 @@ See Google Group:
   * and perhaps [nealmcb/clarify at audit](https://github.com/nealmcb/clarify/tree/audit)
 
 * [SOBA: Secrecy-preserving Observable Ballot-level Audit - arxiv 1105.5803](https://arxiv.org/abs/1105.5803) - would presumably need a modified CVR standard
+
+* [GSWarrington/accumulation-chart: Interactive accumulation charts for IRV](https://github.com/GSWarrington/accumulation-chart) - a beautiful way to expose many details in IRV results as demonstrated at [Accumulation Charts demo](http://www.cems.uvm.edu/~gswarrin/accumulation-chart.html)
