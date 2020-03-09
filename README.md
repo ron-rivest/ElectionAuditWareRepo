@@ -40,7 +40,7 @@ See Google Group:
 * [audit-irv-cp for generating and running ballot-level comparison audits for IRV elections](https://github.com/michelleblom/audit-irv-cp) - Used in conjunction with SHANGRLA      
 * [rlacalc: Online Calculator for Risk-Limiting Audit Sample Sizes](http://bcn.boulder.co.us/~neal/electionaudits/rlacalc.html) - provides ballot-level comparison, ballot-polling and other calculations
   * source code at [audit_cvrs/rlacalc.py](https://github.com/nealmcb/audit_cvrs/blob/ballot-polling/audit_cvrs/rlacalc.py) - with general-purpose Python library
-* [Risk-limiting audit code for Proportional Representation via Highest Averages - D'Hondt etc.](https://github.com/pbstark/DKDHondt14/blob/master/danmark14EU.ipynb) - Stark and Teague, 2015. Probably a good starting point for auditing delegate allocation in US presidential primary elections, which can vary by state.
+* [pbstark/DKDHondt14: Risk-limiting audit code for Proportional Representation via Highest Averages - D'Hondt etc.](https://github.com/pbstark/DKDHondt14/blob/master/danmark14EU.ipynb) - Stark and Teague, 2015. Handles many European elections. Probably a good starting point for auditing delegate allocation in US presidential primary elections, which can vary by state, but which tend to use [largest remainder methods](https://en.wikipedia.org/wiki/Largest_remainder_method)
 * [ron-rivest/2018-bptool](https://github.com/ron-rivest/2018-bptool) Bayesian ballot polling calculations
 * [ron-rivest/2018-bctool](https://github.com/ron-rivest/2018-bctool) Bayesian ballot-level comparison calculations
 * [ron-rivest/2017-bayes-audit: Repository for paper "Bayesian Tabulation Audits Explained and Extended"](https://github.com/ron-rivest/2017-bayes-audit) with extensive simulations
