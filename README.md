@@ -11,11 +11,12 @@ See Google Group:
 * [Arlo](https://github.com/votingworks/arlo): open-source software for Risk-Limiting Audits in the US, via [VotingWorks](https://voting.works). Should eventually handle most auditing methods and best practices.
 * [FreeAndFair/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/FreeAndFair/ColoradoRLA) - as used in Colorado 2017 and 2018 Primaray, and Orange County 2018, but see updated version at democracyworks:
   * [democracyworks/ColoradoRLA: Software to facilitate risk-limiting audits at the state level, developed for the state of Colorado.](https://github.com/democracyworks/ColoradoRLA) - as used in Colorado 2018, 2019 General election, to do multi-county audits and improve many other aspects.
-* [Tools for Comparison Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/auditTools.htm) - Philip Stark's online web app
-* [Tools for Ballot-Polling Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/ballotPollTools.htm) - Philip Stark's online web app
+* [Tools for Comparison Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/auditTools.htm) - when Cast Vote Records can be matched to paper ballots - Philip Stark's online web app
+* [Tools for Ballot-Polling Risk-Limiting Election Audits](https://www.stat.berkeley.edu/~stark/Vote/ballotPollTools.htm) - when paper can't be matched to CVRs - Philip Stark's online web app
 
 * [nealmcb/ocrla-2018p: Orange County California, ballot-polling risk-limiting audit of 2018 primary](https://github.com/nealmcb/ocrla-2018p) - working around limitations of ColoradoRLA to do ballot-polling audits.
 
+* [nealmcb/kaplan\_markov: Kaplan-Markov Risk\-Limiting Batch Comparison Audits](https://github.com/nealmcb/kaplan_markov): Straightforward, flexible core library in Python 3, with example notebook - alpha release
 * [ElectionAuditWare/audit-conductor: Conduct a risk-limiting election tabulation audit, integrating various related tools](https://github.com/ElectionAuditWare/audit-conductor) - for Rhode Island pilot in 2019
 * [agupta231/RIWAVE: Rhode Island RLA project](https://github.com/agupta231/RIWAVE)
 * [nealmcb/audit_cvrs: audit_cvrs helps auditors manage a ballot-level risk-limiting post-election audit](https://github.com/nealmcb/audit_cvrs) - Django-based 2013/2014 code for observing early pilots in Colorado  
