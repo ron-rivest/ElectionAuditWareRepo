@@ -38,7 +38,7 @@ See Google Group:
 
 ### Lower-level Audit calculations
 * [SHANGRLA: Sets of Half-Average Nulls Generate Risk-Limiting Audits](https://github.com/pbstark/SHANGRLA) - a very general method of auditing a variety of election types, by expressing an apparent election outcome as a series of assertions. Works for plurality, IRV, Borda etc.
-* [audit-irv-cp for generating and running ballot-level comparison audits for IRV elections](https://github.com/michelleblom/audit-irv-cp) - Used in conjunction with SHANGRLA      
+* [audit-irv-cp for generating and running ballot-level comparison audits for IRV elections](https://github.com/michelleblom/audit-irv-cp) - Used in conjunction with SHANGRLA for single-winner RCV contests.
 * [rlacalc: Online Calculator for Risk-Limiting Audit Sample Sizes](http://bcn.boulder.co.us/~neal/electionaudits/rlacalc.html) - provides ballot-level comparison, ballot-polling and other calculations
   * source code at [audit_cvrs/rlacalc.py](https://github.com/nealmcb/audit_cvrs/blob/ballot-polling/audit_cvrs/rlacalc.py) - with general-purpose Python library
 * [pbstark/DKDHondt14: Risk-limiting audit code for Proportional Representation via Highest Averages - D'Hondt etc.](https://github.com/pbstark/DKDHondt14/blob/master/danmark14EU.ipynb) - Stark and Teague, 2015. Handles many European elections. Probably a good starting point for auditing delegate allocation in US presidential primary elections, which can vary by state, but which tend to use [largest remainder methods](https://en.wikipedia.org/wiki/Largest_remainder_method)
@@ -50,7 +50,7 @@ See Google Group:
 
 * [CORLA18: Risk-Limiting Audits by Stratified Union-Intersection Tests of Elections (SUITE)](https://github.com/pbstark/CORLA18) - Ottoboni / Stark code for combining ballot-polling and ballot-level comparison data, for WI pilot audit
 * [pr_voting_methods: Proportional Representation Voting Methods, Data, and Auditing](https://github.com/nealmcb/pr_voting_methods)
-
+* [michelleblom/margin-stv: Code base and test suite for paper 'Towards Computing the Margin of Victory for STV Elections'](https://github.com/michelleblom/margin-stv) - Calculates upper and lower bounds on the margin of a Single-Transferrable Vote contest, and exact bounds for small ones.
 
 ### Election data standards, repositories and analyses
 * [NIST SP 1500-100 election results reporting standard](https://www.nist.gov/itl/voting/interoperability/election-results-reporting-cdf)
