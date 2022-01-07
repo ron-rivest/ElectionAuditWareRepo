@@ -50,6 +50,7 @@ See Google Group:
 * [ron-rivest/2016-aus-senate-audit](https://github.com/ron-rivest/2016-aus-senate-audit) a Bayesian approach to support work on auditing the 2016 Australian Senate elections, which use the [Single transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) method, one of many forms of ranked choice voting.
 
 * [CORLA18: Risk-Limiting Audits by Stratified Union-Intersection Tests of Elections (SUITE)](https://github.com/pbstark/CORLA18) - Ottoboni / Stark code for combining ballot-polling and ballot-level comparison data, for WI pilot audit
+* [ALPHA: Audit that Learns from Previously Hand-Audited Ballots](https://github.com/pbstark/alpha) - a generalization of BRAVO, particularly useful in combination with SUITE or SHANGRLA.
 * [pr_voting_methods: Proportional Representation Voting Methods, Data, and Auditing](https://github.com/nealmcb/pr_voting_methods)
 * [michelleblom/margin-stv: Code base and test suite for paper 'Towards Computing the Margin of Victory for STV Elections'](https://github.com/michelleblom/margin-stv) - Calculates upper and lower bounds on the margin of a Single-Transferrable Vote contest, and exact bounds for small ones.
 
