@@ -58,7 +58,7 @@ See Google Group:
 * [NIST SP 1500-100 election results reporting standard](https://www.nist.gov/itl/voting/interoperability/election-results-reporting-cdf)
 * [usnistgov/CastVoteRecords: Common data format specification for cast vote records](https://github.com/usnistgov/CastVoteRecords)
 * [epaulson/PyCastVoteRecords: Basic Python library to create a NIST Common Data Formats file for cast vote records](https://github.com/epaulson/PyCastVoteRecords)
-
+* [ElectionDataAnalysis/electiondata: Tools for consolidation and analysis of raw election results from the most reliable sources - the election agencies themselves\.](https://github.com/ElectionDataAnalysis/electiondata) - including conversion to NIST Election Results Reporting Common Data Format V2
 * [Audit Data Formats for transparency, replication](https://github.com/democracyworks/ColoradoRLA/blob/master/docs/26_export_manual.md): The format of data produced by ColoradoRLA's `rla_export` tool for the [Public RLA Oversight Protocol](http://bcn.boulder.co.us/~neal/elections/PublicRLAOversightProtocol.pdf).
 * [nealmcb/corla-2018-11: Analysis of Colorado risk-limiting audit for 2018-11 (general election)](https://github.com/nealmcb/corla-2018-11)
 
